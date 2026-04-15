@@ -83,8 +83,9 @@ demo-auth/
 
 - **Next.js 15**: Framework web
 - **Better Auth 1.3+**: Autenticação
-- **better-sqlite3**: Banco de dados local
 - **Tailwind CSS**: Estilos
+
+**Nota**: Este demo roda sem banco de dados (stateless). Para persistência, adicione SQLite.
 
 ---
 
@@ -102,20 +103,24 @@ demo-auth/
 
 ## 🛠️ Troubleshooting
 
-### Erro: `Cannot find module 'better-sqlite3'`
+### Sessão não persiste
+Este demo roda sem banco de dados. Sessões são perdidas ao reiniciar o servidor.
+
+Para persistência, adicione SQLite:
 ```bash
-npm rebuild better-sqlite3
+npm install better-sqlite3
+npm run migrate
 ```
+
+E altere `lib/auth.ts` para usar `new Database("./better-auth.sqlite")`.
 
 ### Erro ao fazer migrate
 ```bash
 npx @better-auth/cli migrate --force
 ```
 
-### Sessão não persiste
-- Verifique se `better-auth.sqlite` foi criado
-- Confirme que `BETTER_AUTH_SECRET` está configurado
-- Limpe cache do navegador (Ctrl+Shift+Del)
+### Limpar cache do navegador
+Ctrl+Shift+Del (ou Cmd+Shift+Delete no Mac)
 
 ---
 
