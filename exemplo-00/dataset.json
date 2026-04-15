@@ -1,0 +1,6002 @@
+[
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 53,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 55,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 28,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 65,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 56,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 19,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 58,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 65,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 24,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 33,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 57,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 30,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 55,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 60,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 33,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 44,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 46,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 44,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 40,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 30,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 21,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 34,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 18,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 64,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 52,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 19,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 58,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 65,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 33,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 37,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 55,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 53,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 67,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 21,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 67,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 59,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 55,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 38,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 56,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 35,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 44,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 46,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 37,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 60,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 58,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 19,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 57,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 59,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 61,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 48,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 44,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 33,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 21,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 41,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 55,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 59,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 54,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 18,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 52,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 43,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 48,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 21,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 33,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 32,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 55,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 36,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 22,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 58,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 66,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 19,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 33,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 26,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 24,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 49,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 52,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 19,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 48,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 33,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 43,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 54,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 53,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 43,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 50,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 67,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 57,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 45,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 25,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 45,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 47,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 51,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 39,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 31,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 25,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 18,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 22,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 2
+  },
+  {
+    "idade": 62,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 27,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 51,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 42,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 50,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 32,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 41,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 60,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 61,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 49,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 47,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 26,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 40,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 46,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 64,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 63,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 20,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 65,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 48,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 62,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 63,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 36,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 21,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 2
+  },
+  {
+    "idade": 33,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 56,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 0
+  },
+  {
+    "idade": 24,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 43,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 39,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 38,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 28,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 52,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 46,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 29,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "vermelho",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 35,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 65,
+    "cor": "azul",
+    "localizacao": "Curitiba",
+    "label": 0
+  },
+  {
+    "idade": 23,
+    "cor": "verde",
+    "localizacao": "Rio",
+    "label": 2
+  },
+  {
+    "idade": 59,
+    "cor": "vermelho",
+    "localizacao": "São Paulo",
+    "label": 0
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 30,
+    "cor": "azul",
+    "localizacao": "São Paulo",
+    "label": 1
+  },
+  {
+    "idade": 34,
+    "cor": "azul",
+    "localizacao": "Rio",
+    "label": 1
+  },
+  {
+    "idade": 31,
+    "cor": "vermelho",
+    "localizacao": "Curitiba",
+    "label": 1
+  },
+  {
+    "idade": 37,
+    "cor": "verde",
+    "localizacao": "Curitiba",
+    "label": 1
+  }
+]

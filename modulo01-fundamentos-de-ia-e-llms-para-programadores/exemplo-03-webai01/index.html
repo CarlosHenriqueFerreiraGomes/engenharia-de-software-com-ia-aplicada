@@ -7,6 +7,12 @@
 
     ; (async () => {
         const params = await LanguageModel.params()
+
+        const disponivel = await LanguageModel.availability({ languages: ["pt"] });
+        console.log("Status de disponibilidade:", disponivel);
+
+        if (!params) { console.error("Hardware AI não está disponível") }
+
         console.log("Language Model Params:", params);
 
         const temperature = params.defaultTemperature
@@ -41,7 +47,7 @@
             fullText += token;
             output.innerHTML = markdown.toHTML(fullText);
 
-            // console.log(token)
+            console.log(token)
         }
     })();
 
