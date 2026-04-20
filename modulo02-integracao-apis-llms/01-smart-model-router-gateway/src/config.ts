@@ -38,9 +38,9 @@ export const config: ModelConfig = {
     systemPrompt: 'You are a helpful assistant.',
     provider: {
         sort: {
-            by: 'throughput',
+            // by: 'throughput',
             // by: 'latency',
-            // by: 'price',
+            by: 'price',
             partition: 'none'
         }
     }
