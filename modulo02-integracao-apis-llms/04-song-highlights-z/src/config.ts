@@ -27,7 +27,7 @@ export const config: ModelConfig = {
   httpReferer: '',
   xTitle: 'IA Devs - Prompt Chaining Article Generator',
   models: [
-    'arcee-ai/trinity-large-preview:free',
+    'nvidia/nemotron-3-super-120b-a12b:free',
   ],
   provider: {
     sort: {
