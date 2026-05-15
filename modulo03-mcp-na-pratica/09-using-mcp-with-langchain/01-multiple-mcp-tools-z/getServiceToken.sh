@@ -5,7 +5,7 @@ SERVICE_TOKEN=$(
   | jq -r '.serviceToken')
 
 if grep -q "^SERVICE_TOKEN=" .env 2>/dev/null; then
-  sed -i '' "s|^SERVICE_TOKEN=.*|SERVICE_TOKEN=$SERVICE_TOKEN|" .env
+  sed -i "s|^SERVICE_TOKEN=.*|SERVICE_TOKEN=$SERVICE_TOKEN|" .env
 else
   echo "SERVICE_TOKEN=$SERVICE_TOKEN" >> .env
 fi
