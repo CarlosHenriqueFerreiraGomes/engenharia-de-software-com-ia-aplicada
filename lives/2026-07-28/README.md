@@ -2,7 +2,7 @@
 
 Landing page fictícia criada para ensinar UX e DX de forma simplificada com IA, em React, TypeScript, Vite e Tailwind.
 
-> [TIP]
+> [!TIP]
 >
 > Os exemplos usam o Claude Code, mas os dois instaladores suportam dezenas de agentes. Troque o identificador do agente pelo que você preferir, lembrando que cada CLI tem a sua própria lista: no Lagune o Claude Code é `claude`, no `skills` é `claude-code`.
 
