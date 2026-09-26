@@ -281,6 +281,55 @@ Projeto em [exemplo-13-embeddings-neo4j-rag/](./modulo01-fundamentos-de-ia-e-llm
 
 ---
 
+## Modulo 04 - Criação de Agentes Autônomos
+
+> Material da **regravação** do módulo (pasta `-novo`). O material da versão anterior permanece em [modulo04-agentes-autonomos/](./modulo04-agentes-autonomos/).
+
+Dois projetos construídos do zero ao longo do módulo — a **Notas API** (Unidade 1, operando o GitHub Copilot com método: instructions, spec-driven development, guardrails) e o **OpsPilot** (Unidades 2–9, um copiloto de plantão/incident commander com LangChain/LangGraph sobre OpenRouter, que evolui unidade a unidade até virar produto publicado com modo multiagente).
+
+Cada pasta é um snapshot completo do projeto ao final da unidade, com um `UNIDADE.md` explicando o que é novo e os desvios em relação ao roteiro. Mapa completo em [modulo04-criacao-de-agentes-autonomos-novo/](./modulo04-criacao-de-agentes-autonomos-novo/).
+
+- https://openrouter.ai/
+- https://openrouter.ai/models?max_price=0
+
+### 4.1 - Arquitetura de Agentes de Código (GitHub Copilot)
+
+Projeto em [01-arquitetura-de-agentes-de-codigo/](./modulo04-criacao-de-agentes-autonomos-novo/01-arquitetura-de-agentes-de-codigo/)
+
+### 4.2 - Padrões de Raciocínio e Execução (ReAct, Plan-and-Execute, Reflection)
+
+Projeto em [02-padroes-de-raciocinio-e-execucao/](./modulo04-criacao-de-agentes-autonomos-novo/02-padroes-de-raciocinio-e-execucao/)
+
+### 4.3 - Function Calling e Tool Use (SQLite, tool externa, MCP)
+
+Projeto em [03-function-calling-e-tool-use/](./modulo04-criacao-de-agentes-autonomos-novo/03-function-calling-e-tool-use/)
+
+### 4.4 - Memória e Reflexão em Agentes Autônomos (histórico, embeddings, refletor)
+
+Projeto em [04-memoria-e-reflexao-em-agentes-autonomos/](./modulo04-criacao-de-agentes-autonomos-novo/04-memoria-e-reflexao-em-agentes-autonomos/)
+
+### 4.5 - Gerenciamento de Contextos (tokens, sumarização, ContextBuilder)
+
+Projeto em [05-gerenciamento-de-contextos/](./modulo04-criacao-de-agentes-autonomos-novo/05-gerenciamento-de-contextos/)
+
+### 4.6 - LangGraph e Workflows Complexos (grafo de produção, roteador, fallback)
+
+Projeto em [06-langgraph-e-workflows-complexos/](./modulo04-criacao-de-agentes-autonomos-novo/06-langgraph-e-workflows-complexos/)
+
+### 4.7 - Observabilidade e Limites de Autonomia (trace persistido, /stats, aprovação humana)
+
+Projeto em [07-observabilidade-e-limites-de-autonomia/](./modulo04-criacao-de-agentes-autonomos-novo/07-observabilidade-e-limites-de-autonomia/)
+
+### 4.8 - Projeto Prático: o OpsPilot de ponta a ponta, publicado (war room web, Actions, Pages)
+
+Projeto em [08-projeto-pratico-opspilot-publicado/](./modulo04-criacao-de-agentes-autonomos-novo/08-projeto-pratico-opspilot-publicado/)
+
+### 4.9 - Multi-Agent Systems (supervisor, papéis, blackboard)
+
+Projeto em [09-multi-agent-systems/](./modulo04-criacao-de-agentes-autonomos-novo/09-multi-agent-systems/)
+
+---
+
 ## Modulo 05 - Ferramentas de IA para UI e UX
 
 ### Engines de IA & Prototipação Conversacional
@@ -393,6 +442,30 @@ Disciplina completa em [modulo08-arquitetura-de-sistemas-com-ia](https://github.
 *   [Ollama](https://ollama.com/) — engine local padrão de todos os protótipos (`gemma4:e2b`), gratuito e sem chave de API.
 *   [Claude (Anthropic)](https://www.anthropic.com/), [Gemini (Google)](https://gemini.google.com/), [GPT (OpenAI)](https://openai.com/) — alternativas pagas de referência nos protótipos (`provedores-pagos.js/.py`).
 
+## Modulo 09 - Processamento de Dados e Fine-Tuning de Modelos
+
+Disciplina completa em [modulo09-processamento-de-dados-e-fine-tuning-de-modelos](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos) — o ciclo completo de fine-tuning construído sobre um caso único, a **Amplitude Seguros** (seguradora fictícia, linhas Auto e Saúde Empresarial), da decisão de "vale a pena fazer fine-tuning?" (framework de 4 perguntas + AHP + NPV) até um modelo customizado real, treinado, avaliado e documentado. Cada módulo entrega ferramentas executáveis (JS e Python com paridade funcional), dados de referência e atividade prática.
+
+### Os módulos da disciplina
+*   [Módulo 1 — Decision Framework](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-01-decision-framework) — framework de 4 perguntas, AHP, NPV, cheatsheet dos tipos de fine-tuning, Bestiário do Zoo das técnicas.
+*   [Módulo 2 — Preparação de Datasets](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-02-preparacao-datasets) — extração OCR, schema JSONL, deduplicação (MinHash+LSH), balanceamento, comparativo OCR vs. LLM multimodal.
+*   [Módulo 3 — Fine-Tuning via API](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-03-fine-tuning-via-api) — upload, hiperparâmetros, automação, versionamento (Vertex AI).
+*   [Módulo 4 — LoRA e PEFT](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-04-lora-e-peft) — LoRA, DoRA, QLoRA e full fine-tuning local (MLX/Apple Silicon), comparação de rank e custo-benefício, alternativas Colab/CUDA pra quem não tem Mac.
+*   [Módulo 5 — Avaliação de Modelos](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-05-avaliacao-modelos) — harness de avaliação contra modelo genérico e por domínio conjunto/separado, teste de estresse a variação de formato/estrutura, avaliação local (MLX/Colab), NPV real vs. projetado e veredito de escala.
+*   [Módulo 6 — Projeto Final](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo09-processamento-de-dados-e-fine-tuning-de-modelos/modulo-06-projeto-final) — protótipo funcional (JS + Python) integrando o modelo customizado num fluxo de uso real, dataset de produção escalado (200 → 3.000 exemplos), reavaliação contra o mesmo harness do Módulo 5, e documento de decisões de arquitetura fechando o ciclo completo do case.
+
+### Leituras Recomendadas
+*   [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) — Hu et al. (Microsoft), 2021. Fundamenta a técnica central do Módulo 4.
+*   [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) — Dettmers et al., NeurIPS 2023. Um dos seis tipos de fine-tuning do cheatsheet do Módulo 1.
+*   [Deduplicating Training Data Makes Language Models Better](https://arxiv.org/abs/2107.06499) — Lee et al. (Google Research). Fundamenta a deduplicação MinHash+LSH do Módulo 2.
+*   [The Analytic Hierarchy Process](https://archive.org/details/analytichierarch0000saat) — Saaty, T.L., McGraw-Hill, 1980. Base do framework de decisão ponderada do Módulo 1.
+*   Lista completa com mais de 50 referências (papers, casos de mercado, documentação oficial) na "Indicações de leitura" da disciplina.
+
+### Ferramentas & Plataformas
+*   [Vertex AI / Gemini Enterprise Agent Platform](https://cloud.google.com/vertex-ai) — provedor gerenciado de fine-tuning usado do Módulo 3 em diante.
+*   [Microsoft Presidio](https://microsoft.github.io/presidio/) — referência de detecção/anonimização de PII usada no gate de higienização do Módulo 2.
+*   [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — motor de OCR usado no pipeline de extração de documento do Módulo 2.
+
 ## Resolvendo Problemas Comuns
 
 - [Problemas comuns com **Docker**](./troubleshooting/docker.md)
@@ -423,3 +496,55 @@ npx -y skills add https://github.com/unipds-engenharia-de-ia-aplicada/engenharia
 
 /windowsfy <caminho do exemplo>
 ```
+
+## Modulo 10 - Segurança e Governança em IA
+
+Disciplina completa em [modulo10-seguranca-governanca-ia](https://github.com/unipds-engenharia-de-ia-aplicada/engenharia-de-software-com-ia-aplicada/blob/main/modulo10-seguranca-governanca-ia) 
+
+### Módulo Interpretabilidade e Explicabilidade em Modelos de IA
+
+- https://christophm.github.io/interpretable-ml-book/
+- https://www.anthropic.com/research/mapping-mind-language-model
+- Trustworthy AI: From Principles to Practices [https://dl.acm.org/doi/full/10.1145/3555803]
+- Towards Trustworthy AI: A Review of Ethical and RobustLarge Language Models [https://dl.acm.org/doi/epdf/10.1145/3777382]
+
+
+### Módulo Vieses e Responsabilidade em IA
+- Gender bias perpetuation and mitigation in AI technologies: challenges and opportunities | AI & SOCIETY | Springer Nature Link
+O’Connor, S., Liu, H. Gender bias perpetuation and mitigation in AI technologies: challenges and opportunities. AI & Soc 39, 2045–2057 (2024). [https://doi.org/10.1007/s00146-023-01675-4]
+
+- Racial bias in AI-generated images | AI & SOCIETY | Springer Nature Link
+Yang, Y. Racial bias in AI-generated images. AI & Soc 40, 5425–5437 (2025). [https://doi.org/10.1007/s00146-025-02282-1]
+
+### Módulo Gerenciamento de Riscos em Inteligência Artificial - Aspectos Humanos e Éticos
+
+- Mais mulheres tornam-se vítimas de deepfakes gerados por inteligência artificial [https://news.un.org/pt/story/2026/03/1852522]
+- Sobre o Medo de Ficar para Trás [https://medium.com/jessica-costa/sobre-o-medo-de-ficar-para-tr%C3%A1s-1f233fb658d1]
+
+### Módulo Gerenciamento de Riscos em Inteligência Artificial - Aspectos Regulatórios
+
+- Teoria cunhada pela Profa. Anu Bradford (Columbia Law School),
+Efeito Bruxelas [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2770634]
+
+### Módulo Custos Financeiros em Inteligência Artificial
+
+- TSMC, ASML, Nvidia: as ações que surfam a onda dos hiperchips [https://vocesa.abril.com.br/economia/nvidia-e-cia-as-acoes-que-surfam-a-onda-dos-hiperchips/]
+- AI Costs More Than The People It Replaced [https://www.forbes.com/sites/jemmagreen/2026/07/02/ai-costs-more-than-the-people-it-replaced/]
+
+### Módulo Custos Ambientais em Inteligência Artificial
+
+- Data centre water consumption [https://www.nature.com/articles/s41545-021-00101-w]
+- https://www.ashrae.org/technical-resources/ai-data-center-framework/energy-and-thermal-efficiency
+- https://technav.ieee.org/topic/power-usage-effectiveness/
+- https://www.dw.com/en/pushback-on-data-centers-artificial-intelligence-water-drought-environmental-problems/a-78064418
+- https://portal.fgv.br/noticias/estudo-da-fgv-aponta-que-data-centers-com-ia-geram-mais-de-12-mil-empregos-e-mobilizam-25-bilhoes
+- https://www.wri.org/insights/us-data-center-growth-impacts
+- The water use of data center workloads: A review and assessment of key determinants [https://www.sciencedirect.com/science/article/abs/pii/S0921344925001892?via%3Dihub]
+
+
+#### Ferramentas:
+- https://www.datacentermap.com/
+- https://aidatacentermap.org/map
+- https://www.submarinecablemap.com/
+- https://app.electricitymaps.com/
+
