@@ -31,7 +31,7 @@ Este estudo parte das métricas e observações de SEO, GEO e AEO do [**Awesome 
 - **Vantagem:** nenhuma página fica bloqueada e o arquivo aponta para o sitemap.
 - **Na ponta:** o Googlebot e os demais robôs descobrem e rastreiam o site inteiro sem atrito.
 
-> [!TIP]
+> [!IMPORTANT]
 >
 > A liberação total funciona nos dois projetos base porque todo o conteúdo deles é público. Em um projeto com áreas privadas, ambientes de preview ou rotas sem valor de busca, você pode gerenciar o que os sistemas de busca rastreiam ou não.
 
